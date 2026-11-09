@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+backend/matchbook.db*
+evals/results/*.db*
+demo-shots/
+.env
+.DS_Store
