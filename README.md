@@ -9,8 +9,6 @@ Ramp catches it. Matchbook closes it.
 
 All vendors, people and figures in this repo are fictional.
 
-Looking for a version that runs with no setup? [matchbook-web](https://github.com/EasonGan123/matchbook-web) is the same demo rebuilt to run entirely in the browser.
-
 ## Run it
 
 ```bash
